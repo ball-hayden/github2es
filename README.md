@@ -1,3 +1,5 @@
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/haydenball/github2es)](https://hub.docker.com/r/haydenball/github2es)
+
 Accepts GitHub webhooks, and forwards them to ElasticSearch to do whatever you
 like with.
 
